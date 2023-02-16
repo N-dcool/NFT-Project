@@ -1,0 +1,9 @@
+[submodule "Truffle"]
+	path = Truffle
+	url = https://github.com/N-dcool/Truffle.git
+[submodule "Hardhat"]
+	path = Hardhat
+	url = https://github.com/N-dcool/Hardhat.git
+[submodule "Foundry"]
+	path = Foundry
+	url = https://github.com/N-dcool/Foundry.git
